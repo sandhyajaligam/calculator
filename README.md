@@ -1,3 +1,3 @@
 # calculator
-calcuator
+calcuator </br>
 author ; sandhya 
