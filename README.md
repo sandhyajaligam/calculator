@@ -1,2 +1,3 @@
 # calculator
-autor ; sandhya 
+calcuator
+author ; sandhya 
